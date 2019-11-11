@@ -1,7 +1,5 @@
 # inclass-HelloWorld-pm-HATZ
 
-Title,  Development platform(OS, Unity Version,  Visual Studio (Code)  Version), shortdescriptionofproject, 2D/3D project,  Target platform: (Standalone, WebGL, Mobile incl. referenceresolution),  Screenshot (conceptand game), Game Control, Third  Party Material (ifusedFonts,  Sounds,  Music, Graphics,  Materials,  Code etc.), Limitations, LessonsLearned,  Copyright byyou:)
-
 **Development Platform:**
 - MacOS Catalina
 - Unity 2019.1.14f1
