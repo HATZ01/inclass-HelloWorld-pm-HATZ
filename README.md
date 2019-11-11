@@ -6,7 +6,7 @@
 - Visual Studio Code 2018
 
 **Description:**
-This Project refreshed my Knoledge of GitHub/Git.
+This Project refreshed my Knowledge of GitHub/Git.
 - 2D Project
 
 **Target Platform**
