@@ -7,7 +7,7 @@
 
 **Description:**
 This Project refreshed my Knoledge of GitHub/Git.
-- 3D Project
+- 2D Project
 
 **Target Platform**
 WebGL (refRes: 1280x720)
